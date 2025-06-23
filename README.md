@@ -11,6 +11,8 @@ Pressing and holding button 3 activates a buzzer continuously; releasing the but
 
 Pressing button 4 turns OFF all devices (both LEDs and the buzzer).
 
+# pictures:
+![img1]()
 
 
 

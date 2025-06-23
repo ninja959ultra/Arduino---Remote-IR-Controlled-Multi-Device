@@ -12,7 +12,9 @@ Pressing and holding button 3 activates a buzzer continuously; releasing the but
 Pressing button 4 turns OFF all devices (both LEDs and the buzzer).
 
 # pictures:
-![img1]()
+![img1](Arduino_project_controlling_multi_devices_PART1.jpeg)
+![img2](Arduino_project_controlling_multi_devices_PART2.jpeg)
+![img3](Arduino_project_controlling_multi_devices_PART3.jpeg)
 
 
 
